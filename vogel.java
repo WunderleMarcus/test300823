@@ -87,3 +87,5 @@ public class Vogel<T> {
         }
     }*/
 }
+
+// Hier würde eine Änderung stehen oder auch nicht. 
